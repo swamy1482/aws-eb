@@ -5,5 +5,5 @@ if ($t = "$null") {
     echo "Have a good day!";
 }
 else
-{ echo "Happy Newyear 2020";}
+{ echo "Happy New year 2020 to All";}
 ?>
